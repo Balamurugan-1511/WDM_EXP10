@@ -31,3 +31,5 @@
 ![Screenshot 2025-03-17 135703](https://github.com/user-attachments/assets/48c73000-0e37-4086-b2c2-ee6d0dfc3d16)
 
 ### Result:
+The sentiment analysis project in RapidMiner successfully processed an Excel dataset, applied sentiment classification using the VADER algorithm, and generated sentiment scores. The workflow consisted of three main steps:
+
